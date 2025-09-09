@@ -1,0 +1,18 @@
+body {
+  font-family: monospace, sans-serif;
+  text-align: center;
+  padding: 20px;
+
+  background-image: url("Images/abstractredblack.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: white;
+}
+
+img, video {
+  margin-top: 20px;
+  border-radius: 8px;
+  max-width: 90%;
+}
